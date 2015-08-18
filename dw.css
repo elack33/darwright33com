@@ -1,0 +1,236 @@
+html, body {
+    background-color: #248FDB;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+}
+.bigbox {
+    /*width: 98%;*/
+    background-color: #248FDB;
+    /*padding: 3px;*/
+    /*margin: auto;*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    color: white;
+}
+
+img.self {
+    border-radius: 200px;
+    float: right;
+}
+
+h1 {
+    font-family: 'Bree Serif', serif;
+    font-size: 3em;
+}
+
+
+h2 {
+    font-family: 'Bree Serif', serif;
+    padding: 0;
+}
+
+p.big_text{
+    font-family: 'Bree Serif', serif;
+    font-size: 24px;
+    padding: 0;
+    margin: 2px 2px 2px 50px;
+}
+
+.title {
+    margin-left: 50px;
+}
+
+div.skills{
+    /*box-shadow: 10px 10px 5px #888888;*/
+    background-color: #248FDB;
+    /*display: block;*/
+    padding: 5px;
+    color: white;
+
+}
+
+#skills ul{
+    padding: 0;
+}
+
+ul.square{
+    list-style-type: square;
+    margin-left: 50px;
+}
+
+li.header {
+    font-size: 1.5em;
+}
+
+#skills > li{
+    display: inline;
+    list-style-type: square;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.contact {
+    background-color: #ECF9FA;
+    padding: 0px;
+    color: black;
+}
+
+table.contact_table {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.git_code {
+    background-color: #ECF9FA;
+}
+
+table.git_code {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.code_demos {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ECF9FA;
+    height: 250px;
+}
+
+td.contact {
+    width: 50%;
+}
+
+.spacer {
+    padding: 20px;
+    background-color: #248FDB;
+    height:45px;
+}
+
+.selected {
+    padding: 20px;
+    background-color: white;
+    height:45px;
+}
+
+.demos {
+    background-color: #248FDB;
+    display: block;
+    padding: 5px;
+    color: white;
+    height: 800px;
+
+}
+
+.demo_left {
+    width: 25%;
+    /*float: left;*/
+    margin: 0;
+    padding: 0;
+    border: 0;
+    margin-left: 125px;
+}
+
+.demo_right {
+    /*float: right;*/
+    margin: 0;
+    padding: 0;
+    border: 0;
+    /*margin-right: 125px;*/
+    background-color: white;
+    /*position: absolute; right: 0*/
+}
+
+.hidden {
+    display: none;
+}
+
+
+.button{
+    background: #222;
+    display: inline-block;
+    padding: 5px 10px 6px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: 1;
+    text-shadow: 0 -1px 1px #222;
+    border-bottom: 1px solid #222;
+    position: relative;
+    cursor: pointer;
+}
+
+
+#vidHangman {
+    width: 560px;
+    height: 315px;
+    margin-left: auto;
+    margin-right: auto;
+    padding 10px;
+}
+
+#vidMovieSearch {
+    width: 560px;
+    height: 315px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vidTinyAdventureGame {
+    width: 560px;
+    height: 315px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#vidCarRemote {
+    width: 560px;
+    height: 315px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*#space_Hangman {*/
+    /*background-color: white;*/
+/*}*/
+
+/*#space_MovieSearch {*/
+    /*background-color: #248FDB;*/
+/*}*/
+
+/*#space_TinyAdventureGame {*/
+    /*background-color: #248FDB;*/
+/*}*/
+
+/*#space_CarRemote {*/
+    /*background-color: #248FDB;*/
+/*}*/
+
+.table_demos {
+    margin-left: auto;
+    margin-right: auto;
+    padding:0;
+    border-collapse: collapse;
+}
+
+#td_videos {
+    padding: 50px;
+    background-color: white;
+    border-collapse: collapse;
+}
