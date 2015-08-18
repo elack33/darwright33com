@@ -84,7 +84,7 @@ li.header {
 }
 
 .contact {
-    background-color: #ECF9FA;
+    background-color: white;
     padding: 0px;
     color: black;
 }
@@ -96,7 +96,7 @@ table.contact_table {
 }
 
 .git_code {
-    background-color: #ECF9FA;
+    background-color: white;
 }
 
 table.git_code {
@@ -109,7 +109,7 @@ table.code_demos {
     width: 70%;
     margin-left: auto;
     margin-right: auto;
-    background-color: #ECF9FA;
+    background-color: white;
     height: 250px;
 }
 
