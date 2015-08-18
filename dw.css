@@ -50,9 +50,7 @@ p.big_text{
 }
 
 div.skills{
-    /*box-shadow: 10px 10px 5px #888888;*/
     background-color: #248FDB;
-    /*display: block;*/
     padding: 5px;
     color: white;
 }
@@ -120,7 +118,7 @@ td.contact {
 
 .selected {
     padding: 20px;
-    background-color: #504A4B;
+    background-color: #196499;
     height:45px;
 }
 
@@ -203,6 +201,6 @@ td.contact {
 
 #td_videos {
     padding: 50px;
-    background-color: #504A4B;
+    background-color: #196499;
     border-collapse: collapse;
 }
